@@ -1,4 +1,4 @@
 | Description                             | Score |
 |-----------------------------------------|-------|
 | Github Repo                             |  100  |
-| Visit Office                            |       |
+| Visit Office                            | 100  |
